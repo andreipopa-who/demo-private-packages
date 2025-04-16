@@ -12,6 +12,6 @@
     <groupId>io.snyk</groupId>
     <artifactId>logging</artifactId>
     <version>1.0.0</version>
-    <dependency>
+    </dependency>
 </dependencies>
 </project>
