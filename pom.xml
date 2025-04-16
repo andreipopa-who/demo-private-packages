@@ -9,9 +9,15 @@
 <name>my-app</name>
 <dependencies>
     <dependency>
-    <groupId>io.snyk</groupId>
-    <artifactId>logging</artifactId>
-    <version>1.0.0</version>
+        <groupId>io.snyk</groupId>
+        <artifactId>logging</artifactId>
+        <version>1.0.0</version>
     <dependency>
+    <dependency>
+      <groupId>snyk</groupId>
+      <artifactId>logger</artifactId>
+      <version>1.0.0</version>
+    </dependency>  
+
 </dependencies>
 </project>
